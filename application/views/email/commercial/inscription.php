@@ -68,8 +68,7 @@ font-family: 'Montserrat', sans-serif;
             <!--# le message 3 #--->
             <p style=" margin-top: 30px;
             margin-bottom: 20px; font-size: 15px;">Mot de passe : 5742</p>
-            <p style="margin-top: 20px;
-            margin-bottom: 20px;font-size: 1rem;">Adresse e-mail : christadinsi@gmail.com</p>
+            
             <!--# button d'accès au tableau de bord #--->
             <a style=" display: block;
             width: 180px;
